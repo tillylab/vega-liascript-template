@@ -65,12 +65,14 @@ script:   https://cdn.jsdelivr.net/npm/vega@6.1.2
 @hidden: <!-- style="display: none" -->@0
 -->
 
-
 # Vega
 
-Various ways to embed and edit Vega specs and data inside Liascript.
+Various ways to embed and edit Vega specs and data inside LiaScript. 
 
-![](screenshot-vega-liascript-1200.png)
+- View [LiaScript](https://LiaScript.github.io/course/?https://github.com/tillylab/vega-liascript-template) 
+- View [Source](https://github.com/tillylab/vega-liascript-template/blob/main/README.md?plain=1).
+![Screenshot](screenshot-vega-liascript-1200.png)
+
 
 ## Embedded 
 
