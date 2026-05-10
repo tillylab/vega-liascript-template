@@ -1,0 +1,14 @@
+[
+    {"month": "Jan", "temp": 2}, 
+    {"month": "Feb", "temp": 1.4}, 
+    {"month": "Mär", "temp": 6.1},
+    {"month": "Apr", "temp": 10.5}, 
+    {"month": "Mai", "temp": 12.7}, 
+    {"month": "Jun", "temp": 18.5},
+    {"month": "Jul", "temp": 18.4},
+    {"month": "Aug", "temp": 18.1},
+    {"month": "Sep", "temp": 14.5},
+    {"month": "Okt", "temp": 15.3},
+    {"month": "Nov", "temp": 11},
+    {"month": "Dez", "temp": 5.1}
+]
